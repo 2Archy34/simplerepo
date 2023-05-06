@@ -30,7 +30,7 @@ const Hero = () => {
                 </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
-                    href="https://app.davincierc.com/"
+                    href="https://client-ea7z.onrender.com/"
                     tartget="_blank"
                     className="rounded-md bg-grey py-4 px-8 text-base text-white/100 duration-300 ease-in-out hover:bg-yellow/80 hover:text-black/80"
                   >
