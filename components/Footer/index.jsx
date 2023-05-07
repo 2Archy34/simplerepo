@@ -33,7 +33,7 @@ const Footer = () => {
                 </p>
                 <div className="flex">
                   <a
-                    href="https://t.me/dAvIncierc"
+                    href="https://t.me/davincibsc"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-yellow"
                   >
@@ -43,7 +43,7 @@ const Footer = () => {
 
                   </a>
                   <a
-                    href="https://twitter.com/dAvIncierc"
+                    href="https://twitter.com/dAvIncibsc"
                     aria-label="social-link"
                     className="mr-6 text-[#CED3F6] hover:text-yellow"
                   >
